@@ -225,7 +225,7 @@ contract MintableToken is StandardToken, Ownable {
 }
 
 /**
- * The EMRToken contract does this and that...
+ * The VATCoin contract does this and that...
  */
 contract VATCoin is MintableToken {
 
