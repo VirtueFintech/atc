@@ -1,4 +1,4 @@
 # ATC
 
-Virtue Autonomous Truse Coin
+Virtue Autonomous Trust Coin
  
