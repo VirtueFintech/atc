@@ -4,6 +4,7 @@ import "zeppelin-solidity/contracts/token/MintableToken.sol";
 
 /**
  * The EMRToken contract does this and that...
+ * This Token is for later use for Virtue Autonmous Coin Project
  */
 contract VATCoin is MintableToken {
 
